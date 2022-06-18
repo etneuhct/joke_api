@@ -1,0 +1,1 @@
+Serveur django interagissant avec une bd pour enregistrer une BDD
